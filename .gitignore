@@ -1,0 +1,17 @@
+# 복사해서 붙여넣으세요
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vscode/
+.vs/
+*.sln
+*.xcworkspace
+*.v12.suo
+*.v11.suo
+*.v10.suo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
